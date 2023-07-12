@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Store name\n</string>
+    <string name="helper_required">Requerido</string>
+</resources>
